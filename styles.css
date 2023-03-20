@@ -25,9 +25,10 @@ p{
 .div2{
 	margin: 0 10px 10px 0;
 }
-button{
+a{
 	background-color: red;
-	border: 0 solid red;
 	color: white;
 	font-size: 13px;
+	padding: 3px;
+	text-decoration: none;
 }
